@@ -1,0 +1,4 @@
+x = int(1)
+y = int(3.6)
+z = int("23")
+print(x,y,z)
